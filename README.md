@@ -1,4 +1,4 @@
-### What's Up! ![image](https://github.com/GitFutureTrunks/GitFutureTrunks/assets/145227152/b0408c27-02cb-40e4-a51c-62fcc935182c)
+![image](https://github.com/GitFutureTrunks/GitFutureTrunks/assets/145227152/b0408c27-02cb-40e4-a51c-62fcc935182c)
 
 
 <!--
