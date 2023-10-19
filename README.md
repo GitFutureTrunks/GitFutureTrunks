@@ -1,6 +1,6 @@
 ![image](https://github.com/GitFutureTrunks/GitFutureTrunks/assets/145227152/b0408c27-02cb-40e4-a51c-62fcc935182c)
 
-👨🏾‍💻 I'm currently learnung svelte
+👨🏾‍💻 I'm currently learning svelte
 
 <!--
 **GitFutureTrunks/GitFutureTrunks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
